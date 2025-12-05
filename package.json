@@ -1,0 +1,17 @@
+{
+  "name": "analog-type-flow",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@anthropic-ai/claude-code": "^2.0.59",
+    "@types/w3c-web-hid": "^1.0.6",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.4"
+  }
+}
